@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    box-shadow: 5px 5px 18px grey;
+    width: 80%;
+}
+
+#label1{
+    color: black;
+    margin-top: 10px;
+}
+
+#song_name{
+    margin-top: 15px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 18px grey;
+}
